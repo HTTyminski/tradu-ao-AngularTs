@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "traducao"
+    }
+  },
+  "defaultProject": "traducao",
+  "cli": {
+    "analytics": "1a4d51aa-29bf-495c-80b0-e11450547118"
+  }
 }
